@@ -1,5 +1,3 @@
 .sass-cache
-css/style*.css
-css/style*.css.map
-css/ie/*.css
-css/ie/*.css.map
+css/**/*.css
+css/**/*.css.map
